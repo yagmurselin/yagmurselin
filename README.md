@@ -8,4 +8,6 @@ That was the first interaction between me and Javascript and I've found it very 
 Well, it's still interesting but I don't find it as entertaining as before because as you learn you see that it's deeper than you could imagine and makes you feel like you know nothing.
 And with this 'I know nothing' thought I focus on it better now.
 
-At this internship program I've created a tourism app [a link] (https://www.reactnative-themes.com/tourzio)
+At this internship program I've created a tourism app (https://www.reactnative-themes.com/tourzio) and that's it. Till last year of university I haven't worked with JS again.Then one of my school mate and I decided to create an web-app with blockchain and especially React, and choose it as or final thesis, so we met again. Since we started to work on this project I'm learning React, Javascript libraries, MongoDB, Socket.IO, Tailwind, Express, Firebase, Redux, Router etc.
+
+For now I'm currently work on SocketIO and trying to get to know more about JS libraries.
