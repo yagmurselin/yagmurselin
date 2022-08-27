@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
-Hi, I'm Selin and I'm a fresh graduate computer engineer. I've been working on React for a while then I decided to put my works in Github(better late than ever). 
+I'm Selin and I'm a fresh graduate computer engineer. I've been working on React for a while then I decided to put my works in Github(better late than ever). 
 
 Until two years ago I was just a student who tries to get better grades without any practise on-hand coding. Then I started my first internship program as a React-Native intern.
 That was the first interaction between me and Javascript and I've found it very interesting and entertaining.
